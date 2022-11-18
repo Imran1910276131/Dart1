@@ -13,4 +13,6 @@ void main(List<String> arguments) {
   int b=20;
   int c=30;
   print(a+b+c);
+  var s="Bad Boys";
+  print(s);
 }
