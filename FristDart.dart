@@ -4,6 +4,7 @@ void main()
     print(s.age);
     SuperUser ss=SuperUser('Arman', 16);
     ss.show();
+    print("nothing");
 }
 class User{
   late String name;
